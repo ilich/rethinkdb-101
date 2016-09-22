@@ -215,15 +215,15 @@ Server ready, "LAPTOPTA3KJMF5gol" 68fe6d59-6898-4c2e-b8c2-f54c8b4d2d8c
 warn: Problem when checking for new versions of RethinkDB: HTTP request to update.rethinkdb.com failed.
 ```
 
-* Web-interface: http://localhost:8080/ or http://localhost:8081/.
+* Web-interface: [http://localhost:8080/](http://localhost:8080/) or [http://localhost:8081/](http://localhost:8081/).
 
 * Database connection: localhost:28015 or localhost:28016
 
 ## Useful Links
 
-[RethinkDB](https://www.rethinkdb.com/)
-[RethinkDB installation](https://www.rethinkdb.com/docs/install/)
-[Thirty-second quickstart](https://www.rethinkdb.com/docs/quickstart/)
-[Ten-minute guide](https://www.rethinkdb.com/docs/guide/javascript/)
-[RethinkDB Cookbook](https://www.rethinkdb.com/docs/cookbook/javascript/) 
-[RethinkDB Cheat sheet](https://www.rethinkdb.com/docs/sql-to-reql/javascript/) 
+* [RethinkDB](https://www.rethinkdb.com/)
+* [RethinkDB installation](https://www.rethinkdb.com/docs/install/)
+* [Thirty-second quickstart](https://www.rethinkdb.com/docs/quickstart/)
+* [Ten-minute guide](https://www.rethinkdb.com/docs/guide/javascript/)
+* [RethinkDB Cookbook](https://www.rethinkdb.com/docs/cookbook/javascript/) 
+* [RethinkDB Cheat sheet](https://www.rethinkdb.com/docs/sql-to-reql/javascript/) 
